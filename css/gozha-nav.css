@@ -358,3 +358,8 @@ ul {
 	width: 240px;
 	height: 240px;
 }
+.movieimg{
+	height: 424px !important;
+
+	width: 424px !important;
+}
