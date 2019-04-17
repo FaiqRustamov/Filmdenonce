@@ -1,0 +1,759 @@
+﻿<!doctype html>
+<html>
+<head>
+	<!-- Basic Page Needs -->
+        <meta charset="utf-8">
+        <title>Filmdən Öncə</title>
+        <meta name="description" content="A Template by Gozha.net">
+        <meta name="keywords" content="HTML, CSS, JavaScript">
+        <meta name="author" content="Gozha.net">
+    
+    <!-- Mobile Specific Metas-->
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta content="telephone=no" name="format-detection">
+    
+    <!-- Fonts -->
+        <!-- Font awesome - icon font -->
+        <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+        <!-- Roboto -->
+        <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,700' rel='stylesheet' type='text/css'>
+        <!-- Open Sans -->
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:800italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Stylesheets -->
+
+        <!-- Mobile menu -->
+        <link href="css\gozha-nav.css" rel="stylesheet">
+        <!-- Select -->
+        <link href="css\external\jquery.selectbox.css" rel="stylesheet">
+
+        <!-- REVOLUTION BANNER CSS SETTINGS -->
+        <link rel="stylesheet" type="text/css" href="rs-plugin\css\settings.css" media="screen">
+    
+        <!-- Custom -->
+        <link href="css\style.css?v=1" rel="stylesheet">
+
+
+        <!-- Modernizr --> 
+        <script src="js\external\modernizr.custom.js"></script>
+    
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries --> 
+    <!--[if lt IE 9]> 
+    	<script src="http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.js"></script> 
+		<script src="http://cdnjs.cloudflare.com/ajax/libs/respond.js/1.3.0/respond.js"></script>		
+    <![endif]-->
+</head>
+
+<body>
+    <div class="wrapper">
+        <!-- Banner -->
+       
+        <!-- Header section -->
+        <header class="header-wrapper header-wrapper--home">
+            <div class="container">
+                <!-- Logo link-->
+                <a href='index-1.html' class="logo">
+                    <img alt='logo' src="fo.png">
+                </a>
+                
+                <!-- Main website navigation-->
+                <nav id="navigation-box">
+                    <!-- Toggle for mobile menu mode -->
+                    <a href="#" id="navigation-toggle">
+                        <span class="menu-icon">
+                            <span class="icon-toggle" role="button" aria-label="Toggle Navigation">
+                              <span class="lines"></span>
+                            </span>
+                        </span>
+                    </a>
+                    
+                    <!-- Link navigation -->
+                    <ul id="navigation">
+                        <li>
+                            <span class="sub-nav-toggle plus"></span>
+                            <a href="./movie-page-left.html">Filmlər ve Seriallar</a>
+                            <ul>
+                                <li class="menu__nav-item"><a href="movie-page-left.html">Filmlər</a></li>
+                                <li class="menu__nav-item"><a href="movie-page-right.html">Seriallar</a></li>
+                               
+                            </ul>
+                        </li>
+                        <li>
+                            <span class="sub-nav-toggle plus"></span>
+                            <a href="page-elements.html">Məhsullar</a>
+                            
+                        </li>
+                       
+                        <li>
+                            <span class="sub-nav-toggle plus"></span>
+                            <a href="gallery-four.html">Haqqımızda</a>
+                           
+                        </li>
+                        <li>
+                            <span class="sub-nav-toggle plus"></span>
+                            <a href="news-left.html">Xəbərlər</a>
+                           
+                        </li>
+                        <li>
+                            <span class="sub-nav-toggle plus"></span>
+                            <a href="contact.html">Bizimlə Əlaqə</a>
+                               
+                        </li>
+                    </ul>
+                </nav>
+                
+                <!-- Additional header buttons / Auth and direct link to booking-->
+                <div class="control-panel">
+                    <div class="auth auth--home">
+                      <div class="auth__show">
+                        <span class="auth__image">
+                          <img alt="" src="images\client-photo\auth.png">
+                        </span>
+                      </div>
+                      <a href="#" class="btn btn--sign btn--singin">
+                          me
+                      </a>
+                        <ul class="auth__function">
+                            <li><a href="#" class="auth__function-item">Watchlist</a></li>
+                            <li><a href="#" class="auth__function-item">Booked tickets</a></li>
+                            <li><a href="#" class="auth__function-item">Discussion</a></li>
+                            <li><a href="#" class="auth__function-item">Settings</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+
+            </div>
+        </header>
+
+        <!-- Slider -->
+           
+        
+        
+        <!-- Main content -->
+        <section class="container">
+            <div class="movie-best">
+                <div class="col-sm-10 col-sm-offset-1 movie-best__rating">Today Best choice</div>                 <div class="col-sm-12 change--col">
+                     <div class="movie-beta__item ">
+                        <img class="pic" alt='picture' src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMSEhUQExIVFhUVGBcWFRcVFRUVGBUWFhUWFhcVFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGy0lHyYtLS0vLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIARcAtQMBEQACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAACAAEDBAUGBwj/xABDEAACAQIDBAcFBAkDAwUAAAABAhEAAwQSIQUxQWEGEyJRcYGRMlKhsdEHQsHwIzNicoKSsuHxFEPCFSSiJVOT0vL/xAAbAQACAwEBAQAAAAAAAAAAAAABAgADBAUGB//EADYRAAICAQMCAQwBBAICAwAAAAABAhEDBBIhMUFRBRMiYXGBkaGxwdHw4SMyUvEUQgYkNHKi/9oADAMBAAIRAxEAPwDqhbr0W49PYQShZLHy0LJYstCwWPloWSx8tSwDFalkFFCyDEVLAAVqWKwStHcA4jpftfLeFsahNTr97j6D58q4/lDK5vYuiN+mxJQ3Puc9ZdGPagBgSdIAg9lB3IDLGN8Vy7ZbNGNjEhtNx1Hgd0+UGOddDTyZkyMAN2SPCunEobtUQmrYszuzqujm3iYs3TyRif8AxPfW/Blr0WZskO6OjatyZnaGFBsKQQWlckMiQLVbkOgxSORYgwtI5FiOsy1h3GyxZalksWWpYRZaFgsfLUsliy0LJYstSyWIrUsFgkVLIARUsAslDcA8h6Sa4i6ZntMfVgPz4Vwcs7nL2nXhxBewyGYkE8AQPWf/AKmq1DkolIOwnWnU6khUUeM7uAFXqXmlfbuDBjjllTfJo7Rwtm0IQ5juOswfQU+kz58r9Lhew2ZcOHFFtLky7OHDEAcdK6ydcnHlCPUrkEEruIPhB3VevEyNU6O52AuayrGc3Hd379PyNRXQx5PRM040zVCxRchaEWpQpD56DQRZqA6Y4ehSHs7jJXMs12LJRsljdXU3E3Cy0LJY+WpZLFlpbJYstCyAlalkAZaZMIOWjZBMuhiJ57vOq5MiPH9sa37wf3mkxul9SAOQOnOvO5JPzj9p1v8Aoq8CiMI7XOpCknfAG8LmJI7zBNWxkkrZlbtWirhsMwuKo3sViO4wQRWh5Iyg34WPhhKE1t718DZ6SbOFliOsDNOo1n0jT4UfJ+VzXSkaNTJTjfcw0DAiN8iPGdIrtqq5OVNOPU1OkOzcuS8CD1iqXjg7JLb9dSHPy0qvDk6x8DLO93JodG9rIFNtsqkbjoM395muhifo0VZFbs6EXJ41fRUNUIPFDcEcUrYw80oyPQstcmzRYstSyWLJU3EsWSpuJY2SpZLKm0r7W0zIuZpAAgnedTpyBoWByoysPtXENcROoABgsSH7MsqkT3jtnyHfRFU5X0BO2LxLBbMAZssq/ag3cpncAVRf5xQDvfgS7I2ldusQ9rIoWQSGBJzsANf2VB86LY0Jt9TTNDcWDE0rkFI8y25hQbt9oBOs8maW15ARJrz2d/1WdRL0IpEPQnCm7eVwYdARb1iLynNYnkxGTmSKNtvgxah7IO+j/WZm3LhN5jbVkQ3HuWwQAyyQCuYa6FRpMDSrtPKFX4l8YTaUX1ivdX+zIuO4btGTx3ny1rr4nGuClyyRfLsna2yRcIOVtOUrBgjjvU+daoTjLhEyRcJ+muq6HQYpGfZ13FuZa9ik13ahL7OIG7Ug6d9JGvP7V2X4MmSa3KC7J/ZIo7BwytdmVIjcYgxpx8/hW7BJ1yirLFcUdaLQGgGndWjeUUKKFkoZjQslAFqIaBz1Bj1HJXE3D2P1dDcDcLJQ3EsbJU3EsYpR3B3HPbO6L9U6ObubIQYKDWOsjWdNbrGmcxVGiu3RLceu1XKQRbAkqXMkBtZLye+OdDzhNnrBPRMSv6XQBQRk35Wtn3tJFtR5UfODebBXosAZN2ZADApvi2tvQ5pXQNqNe0aHnArGaezsH1NsW5DQWMhcslmLHSTxNBysuiqVEz0jY6OL2vhxaa6ACTcI4+zu9rxIHx5VxNTj2yOnCW+KfgWegWHS3fKAAwjpcX7xm4sZdNYmfFZ74qwt7+TLr0pYvfx8+v73JunGxLovstu3mGVrjEKGIzZlYwR7JADGNxHCBVebC8eRuPTrX7+9S7yXnwzxp5HT6L19OH9OevB5cFXOM5gEwx3mOMc66+HLJx9Hl9i7LjjGXPC5TN3H7Swj2rirnjLaFoEqGN5Qyl2E+zlJnnlFatFhzY36Xi37v9mHV51Nxppvn4E+Kvi5s/C2EywrXGuDQRczqqsxPEq6ju9kVshxnk36vh+oyuEU3L2GlszZa2VgwTAB8vya6EeCii61GwUBUslAMaKYKImNMmSgYqOQaPXwlef3FW4fJQ3A3DZKm4m4YrU3BsArR3DJgEUN4xGy1NwyZGwqbh0QtU3DoiepY6IiKNjGftnZov2nt7iw0PcZkGqc0FOLRdiyOEkzlcDg71i5bbJNxOywUaXBJnMYj70STqGbdXJeOcZ0l+9zXPZkg1fH7RtdKto37d9b4ZgCFCcVYNo4Y94AIPPykZ1LdyZNLDHt2V7fqv4PKNqv+kYZY1Og4SZ09a3aBVFM1a7I3Lau37ZUtpJGkSd54c4ruQlSOWoW+nxNQ3wlq9ZkN90MJhhnskeUWzVkE5SjP96P8gnFpOL7FzZXSlkAS6CygAAj2hGmsnWtHQq3Gva6S4dvvFf3lPzEiiS0XLWOtv7NxDyDCfSjYeCQipuDQMUNxKGNCxtp7OLdcCznbh+roWTcCUqbg7gGWhuGTI2WpuGTI2WhvGTInFTeOiFhU3FiIXFMmOiFhTKRYiMio5DoE0jkMiK4Y13c6XclyxkrLf8A0VcXgy6MWzFoEA5LlstZZkG8yFhlnUCRB30SgskXKJhyal4tRtkunzT5p+y+H7naPHtvbKAuMc4Lglbi6gkroWBIGvIgGqsGRx9E68Zf9pdGjmcRAbSfOu7p22uTFqGt1xCIhJ7zXQiVSTULfcgpjOKoAaoQkt3mG5mHgSKgUWrG0rynS6/mcw9DpUHVnT7K2j1iSxGYaHnzqmWVQlUjVHG5K0fQwtVw7OBuHNqlJuAa3QsKkRslK2OmQslLuLEyJkobh0yFlo7ixMgdam4sTK9ymUy1EDU24sQIFRsayHFYhUGp17vzuqjLnjDr1LMeOU3wZIxJLG43sqCVHDQase88POsnnJZHz8DVKMYx2r3mv9juNNzC31JnJiHI5K6q39WY+ddLEtsaOJ5ZjWZS8V9DmPteu27+IGGshBdtLmvXI7ZzA5bUjeApJM+8scaO2KdtB0kp48Vtun0/J5UoAYht40mTHx3V0cdpWjdjlF8yHxm4CtuJ2ialeiipVyMQqhBVCUOBQsKQQFQdIvYW7AOsUk4qXVGvFJJH1lFcKjzFiig0SwGWq2gpkTpSMsTIHWkbLEyFxSbixELihuLEV3FTcWxKt0UykXRKzU24tRRxOMKsyyBlAnxYT8o9ayZtQ03FGrHh3RT8fsZDXBcJk9kb+f5j4Vlj6TNu140q6lLbmLHUX2X7iovlcAIFbcEN00itKmr738ja+xterw+IvtcXquzO+UZFZ3JkRGV148DXQb9J2qOV5ZW6WOCXP5fHzPNNoYu47X8aWg3HYCRPtvmI190fMVdFJtRr1mzU44xjHF4L5Iydr4MJciScwzT4k/StWnlaMuNKUeSPaGBe0trN/uILijuViwX1Cz51qw5FNuuzoOSPooo1pM9CqEoVQlBAVBkggKA6QQFAdI+vK4Z5wVQgxpJIKI3FZpDIruKpbLUQPSORaiB6TcWIruKm4tRWuCpvouiQMtRzLEzmNtORfvCDAYH/AMFj4Vjyr02djSJPDB+r7syUu6OO9YOo49kn0Y1ZjVGma5Rk9IMT/wBuROt68WI/ZtrAHq/wrraKNzvwRS4+l7F9f9HW/Yyc6Ymy0G32DlO4lgQZHdCirs6W9ew5Pln0VCS688nBdNLC2btzDWzKW7rhfmR5EkeVadPFvl+BISeX+o+rSM3aSTasP3plP8J0+FW4eJyXrDj6tI6f7RMCp6q+vsNasBI3AZLkR5KKo8n5XucX639B4r+nt7pv9+Zw3U12dxU8QLW4o2K8dAlagrjQ4FQKQQFLY6Q8VB0j66riHmBVCDGhLoQBjWKcldXyOivcrPJlsStcNUuRbEgY1W5lqRXdqG8tSIHNDeWoZRTRkRnN9IcP/wB1e7msJcHkAh85Ao5V6TZ1NFk/9eHqk19zlUbUiYn/AD+FNjOlkXcxNvEs62wP1agH94ksfixHlXY0rUItvuVxi3z4na/YzZIvX53ZE+ZpM84ynGvB/Y5flrjFFPx+x550mu58TfbvvXW9bjGurhXor2DQjWOK9S+hYxdr/tbfIg+oNUwmllZTii/Ps6XpgP8A0/Bd/VWJ/wDjuR86z6V/+xP3/UfGvSl7X9jjVtDfwrpb30LXEgxKAvAEQPnVmOT22xHG5Fa4kVamJKNAAUbFSJVtVW5ovjgbViyUdxHjaPrauOeSFUIBdaBWPWZvNwGirZSa7qTx4V57/k/1JTXL7I0KHFES350JE0+n1bnxNqx3jroBcarZTHiivcaqnMtiipfugCTuquWVLll0INukQu9DeWqIKXatjOiOJR6RIDdsvHt23tHzUXFPrbI/ira3uXuL9E2sc14ST+dfc4J7uRyxGiSY8NQPWBRxK6SO7KKcPaY5Mksd5MnzrW3XBYkek/ZYuWxiLvEsFHkoPzaqnKm36vycDy36WTHD2v8AfgeSYwTdbm7f1Gu7CXoL2G6KVFvaF49WqaRp8IqrErk2U44LfZ2n2gYcJgcN4Wh5JYAA9SazaJ/1pMz6aW/JO/X85HntsMRAPz/Cuu2l1NNFZGOY68qua4KY/wBzGuLRTDKJKluqJTbZqhiSQYFK2WpD5aG4bYmfVc1zlkR4Khi1JLLSJRUxF2vO6zUuaabsvhAzbz864eSdcM2QRUF/Uf5qrHnqa/2X+b4LbtXac3XJQkV3aq3ItSM/aLDIaozO4mrAnuRRw2KkZY3DTnQxy4o05MVOx2xIHGr1IixtlHpXiiLOHvDcjGRx7LyPl8a6OJ7lD3lugxJ5MuN919jjOlNxVdlUzmIaR7u9fWZ8hXQ0sObZ0sFuCb/fH99pjWsQNxrTPC+qLUz1r7NGH+l/iY+c/QCsCT87K+34PO+WU/PL2HjeIP6Rj+0fma9Al6K9h1YVQWKJJA9B+FLj4TYILk9C+1PEJ1Nqwp7SGWHu9iAPHsn0rB5Pd5Gc/Q45elkfRrj4nnNq2YJncOBiuxKStI11S5I7d0L92e81Y4OXcVNR7AXGnhFPFUCXJMBWVs3KPA4FSxlEIChY6R9Q568/54+f7QLrSKozzc40mGKplDEvpXC1U3V9P3g1Y4mbeeuTkbbNcIla41Ki6KLFlzl18q6eCUtnJVNLdwQ3rsbzVjkWQhZnYnFDUVU3fBrx4n1Mwt40YmxIZCN5q5Oguwekl9BhQrbtTzOoMec1v00m9tC6OEvPuSPOcVdLEsePw5Cu9hVKjqySS4KprZHoVUes/Z/eW1gusYgKMxJ7gN9cnK/6s36zieU4PJmUY9eDynErLE8MzHymu5jlxR0NtFUua0KKE3M63azG9glxB9p78Nyi0RHw+NcjTR81nlHwX3sLVZNi7R+5z163lt+P+K6UJ7shJLgoxWuyraOBUsKiWEaazTg10NsJph5arstoU0abDaR9J9ZXkXkPB7QTdpHkColbE6isOpxrIi7HwyjiGAnWudmx1bRpgmyq7Dypdib9RdFMjuXzETpVynSpDxxqyjfu8aKdmmES3jbargrdzIDcuNlB4gMzEH0SB+8a7L08I6KMtvpS79+X+FXvM+KUpauUb9GKv4Jfn5FzDYK0+MZAiNbsqAQFPtEqpz959ozy5Vtx6bFLVuKitsUu3f1+PdmeefJHSKVtSk/Hty+PkVNhYW2cG2Ie2pYG4wIE9kIVA/m18qp0+nxrSPJJW+Xz7KXzL9ZlyLVrFCTrhe+7+hj9M8LbTAISql26kKxGoZusuvB5oqDwiteHDHFp4uuWl8+TX5PyZMmskrdLda7UqS+dmJ9m2ybd/EXTdRHREUAXBmXPcuqAY78oePGtuBX1LvLeolixxUG02308En/BBiMJZ/0d+6lu0Hv417dgOhLCyI7Noj2SCw1J3A8YrR2K4Tyf8iEZN1GCcqff1+J2Oz8PYbE4vBqtvqbVu0CqqQBDgXS86F/a1GkR3Gqnjj5y6/eDn5MmVafHmbe5t9fZxXq9Rx+JwlpsErrat9ZjMW/VKEJuCyHQdXZO5YYxqR7UVfjl3N0nNahxcnUIK3fF0+WRfaXhbNu7at2cOloBGeUEZ0ZyEzLvDLkYGeM1fjkyrybvnCUpSb5r2Pv9SthhOzHn7mIBHmgH/KsUnWq9sToT/wDkL/6nOYsiAB4/n410MKdtsfIuxXitFle0eKljbR4oWHaEGpHFXZapNcCmmpAtn0Bd2h7vqa+bz1H+J5mOn8SFsY3fVLzz8SxYY+BFcvE7zVUsjfVjqCXQiz1U5IeiJn003z4AjxpU30Y6XPJRuYhjpVygjSscVyQ4rdv37vxp4DwBxG0rxVFJ7FsqVGVdDbnKee8+NdBazI4xhfSq48OhMemxbnJdXd8vv1CubQxNpmvewbsO02wueAQGAKwR2idOJmr1qNRjk5NU5c9KsRafT5IrH1UeOt16uvq+xXu46/ZwptnMLbDKkpAMsbmjRrqSaCnmcFB2oP1deb6/vBbHDhzajeqcly+fVXT5HP7W2lib1q0t2eqUxbPVhVZlUJ7YAzsFEb9K6PnMkord0Ohp9Pp8WSTx/wBz6821bvp2TfJT2ZtHGYRGvWVZbbsua4bWZCyZgozkRILNpO/wroYboq1WDTaiahkacl2vnmuxCuNxS4aych6izd6y3cNmVFzNJHWxrJ3rOsDurREWWHTvJLn0pKmr7ez7l2xtjFZb2IykDFzbuOtkKtyRBVSFjOe0TGp31Vl3XSJHTYG4Qbtw5Svlet83XhfBHiMdi0t2GCFbWHuFrNw2RC3M5YjrSva7QMrO9eVWYv7RPNaeWSav0pLlX29l+Hczts7Ru4q4Lt5gWyhRChQqruUKogDU+tXRlQ2LT48MdsFx1NbDIhwDKbq5u1cyEgQRoI45uz8a5s5TWrTp10+P+yTvzqe3w5OVu767kOg81yCBTWDaEBUsZRHihY20UVLDtHK0EybT2rNXyxypnBoTPFJusiimRriARvgjvNRxdjvG7Ijif2d351ptj8R/N+sju3G0ideAoxS7jRjFdQ8NZ3lhrPfP+KE5dkDJPsnwV8ffIlY0IEcIq3DG1ZZhxp8lTqGIUGcraydfE1cnHcXKai211Rd6S3Fu3jkul1AOnBSSeyuncF85ro+UM8Z5PQdr5e73UZ9BGWLF6caf19b+ZS6fY9CmHtW2lUDTE7wttBM8YU+tbcuXHkUY43dfwvsXeR8E1LJkmqba+rf3MjbmNsvhsHh7ThjaDm5AIAd1tuTrvGdrg/hNapuPmoxXY06XDljqM2XIqUqr2JtfRL4lTbe2l/0VnA2hIyrcuuCdHz3nNuIjTrAZnuHCtmJ+ikLh0sv+VPPk45aS9VJX8jOxmJt/6LD2FaW6y9dujXsk5ETl7KE+dXxuuC2OOX/JnOS4qKXzb+bNS7tPLh8JZsKlxkS4X0Yvbe5cLFT90CMmuu492tGaMWlulRTDDebLPJaTarpTSVe3xLfSLadpsDYwqODcDBryidDluOQZ00e8w07jyq3G1sVGTBgyR1U8slx2+S+iOVv29NKkJcnQT8SK20QMoJMCmlG7d0kal0IcTh2RirqQd8HuOorTiywyQUoO0U8PoRgU9jKI8ULG2jxQsO0eKlhodTFRpMlHrduZ+c618wZwpVRF1gzazBn08O6m2uuB9r28Ez3AdyAd57/LcBQK1FrqxlfLO+DvjcBz+FDqFrdQ2Jx6Zc7FVVRBYkKsGQDPDhVsMU8klGKtvskJs83bb9ZQs4oNa60XUCGczFhlEaamrnp5rL5pwe7wrn4Ghzxr0uy6Mn2fj8O5hb6XnAgKmXQcTqZPjTZ9HnwxucJRXi06Mzzb+IUvfz8hsVtFJ6prlsMuuXMM2i5jImd2vlVePTZnBTUJOPjXHLrr7ePaPGWOM6vkr2MTZZWuI6FR7TBgQNJOY8NKeeDPCShOLTfRNO37EWrKpK74RznSbG22yFLisIYSrAidNJFdTQ6XNGTjKDT8Kd0dHQ58SxynKSq0rs0vsx2SmJxRNxQyW0LwdQzEhVB7xqTHKuvgxKU6kuhn8uauWHTJ43zJ1a8OvHyPWX2nbTEW8EFOZ7bXBlAyqqkDXxOg04V0Lp0eNWCcsLzt8Jpettnnn204KyvUXFRVuOXDEAAsqhfajfBO/nRS5O75Ayze+Mn6Kr3HnGz7oB/WZRxIbLu4TVOoxyf/AFt+z5nfeow7N25V06qrCe4M51GpMGQZ17+NGEJbOU+BHmxNL0lz056+wt3WWMsjNG6RPfu8Kqgp3urjxKVkj5zbavw7kOxr9u2xu3CJQSik+0x0HkN9NrcWbLBY8afL5fgv5Ls2bHFKDkk36+xHjrxuTddhJ1HP6Dup9PDzVYoL9/PiXbscIbrW3xvj4lOR3itlPwAs2K0ty56c9fYFFLZfQ8ULDQoo2GhRUslHqnauEsxjWTqBNfN2zg+jjW1IJTVbQrQ+apRKDFvXLEk8N3DnQfHqFcuL7HM9PotYXLOtx0Xf3S5/oHrXof8AxuPnNbu/xi39vuZtZlcsfvOf2+5TA4ezJ1hivgmbd4v8K7HkxLL5Tz5vDi/fX0iV6lKGnxxrryTbEwartMIogWV15kWQrE/xsaHlHUSn5Ic5u3N8exztf/lFOKH9al2/BTx2KU4rGXSR7FxE1GrdmyMvf2ZNatPglHRabFXeLfqXM3fvoWUv6k2/X+C5g/0WynbjcLCP3nFr5A1jz/1vLcI/4pfJOX1aL4ejpG/H/RzJJyBP2yfVVH0rv0vPvJ4R+7ZWm3p1iXVz+yX3PQegXSVMCbpa2zm4EAIIGUJm7+/N8K4MMyx3Jrqeg8q+TZatQjGSSjfzr8Hoew8NfvY58fesGyvUJZtBnRyQXLsewTHDf31ujbds8xqp4sWlWnxz3Pc26TXau5wf2048PibdkEHqrRLQdzOZIPccqofOrsf9yOn5IxOGiy5H3v4Jf7PM/ugcyfw+tdD/ALt+4wNvzEYLxcvovsy7hLc3FHuqp9VDf8qyZ51hk/FtfB19jbpI+c1EF/jFfn6ssYXt4i43ABvwUfCqc39PSwj41+R9It+tnLwv8GciZs5Ak6R6/QVtlPZtTdL+CjHhlqnmnFW7497/AAiziMMyWVY8WgfE1nxZo5NTKMey/CNWri8Gghil1vn4t/gCwuZpA0UAecQT6z60+WWyFN8tt/vuoPkzF5zPvfSCSXt/bZPFZ7PSDxUCKKhKFFQlHqbW87swGUE6KNYHyr51KaXQ88pbIJPl+I2KtQs9x13zHy30ITt0HHO5UUxeEjT1O/0q7Z4mjY6B23tUrae+YzonZ36mIExz+daNHpv+RqIYn0k+fZ3+RkyR8xjbj0OH23tK7irWHDxLu8RPvBBvJ4lq9f5O0WLRZszhdJR6+xyfh2o5mfI8sIcU3fT4L7l/pUofF4ewBoMk+DOAfglYfIsnj0OfUPq7+Ub+rLtUt2WGP95f8BdD7obEYrEsJGp8ndnPwUUPLsHDS4NLH1L4JL7i6Tmc5/vJzYUNYuXmAzNdVRyJDO//ABr0DlKOphhi/RUW38Uo/cyUvNuT62vu2be3iUwVizxOUkDicpJ+JFcbyZWXylmzeF/Wvojfqls00I93+DFvW4vlD912+H/5rq+cvR+cXeK+f+xdLDdrI4/CTfw/0eg9Gugt7FWUxQuW1V80KwaYViusd+U1yVpnOHU6+u8tYtPleFxbarlV3VnovQzaV7EW7rX+rJS9ctKbalQy24EwSeM1sxSck7PL+UtPiwzisV8xTd81Z4x9oVtFx2JW2oVQ24CBmyLmgfvZqvw/3r2npcEpPyXc3b2v718jlVGhPcAPU1vbqSXj+DhwjuxTl/ikvjK/yaOzWkvcj+wHAeUelYNYq24/3k6vkqK25Mz9nw5B2XcyrdfiR8gT+NNrI7p44Io8nWsWXM/3hsp2rpRZHE/AD+9asmNZJ0+y+pVptVPSafdBK5SfXwSX3ZqbYU/oLbERvIHAEgfWuZ5Ocf62WC/UrNflV+cy48ffv72l+SLZeKIR0G5jrprEbp7qt1uCMskJy6pFvkRJxm/WGyxoRSKSlyjvoEimTCNRDQqhD0sbTJkKBIE8Y04Ddwr568C6s4D0yXMiy+LVkgCSR/mq1ilGVlSwyjKykmDkiDVzy0aXmoHaWyku2mtM57XuakEEEanTeBpVuk1s9PmjljHp4/Ay5rywcaqzFwHQ9UdHuX2cWzKLlgCCWHE6ZtYEa119T/5DLLinjhiUXLq7vtXgu3FmTHo9sk27os7Y6M/6i6L63XRgAsgaaTqDIIOtZ9D5aelwvDLGpRu+vj7mmPm06nLddMmwHR9MPYuWBcM3QQzQM2q5RCjgBPrVep8rZNVqYZ5RVQqlfHW+X6xsenUYOMe/cyMR0WTqltdawUOzkkLLFgq7p4BfjXRx+X8nn3l82m2kqt8U2/DvZF5O3R27ifbWBF5rTFiBa1AiAdVPHX7orNoNbLTRyRStz7306/k2z0Kyyi26rt1Of2hggLzXA0zLbt0k7q6uLXOWmjhaqqXwNel8mxx53nvnnj2nvvRqwbWBsIBJWyhgcWKBj8TW+HEEeL101k1c2+jk/hZF0KwLWMFaS4CrkM7g7wzsWIPhPwpcEXGCsfypmjm1UpQ5XCXsSo8F21f66/euf+5cuN5MxP41djltaZ7Raa9MsD49FL5FOxg5GSd5FNk1W1+crojNHyVCOCWLd1d3XgaGJwa21FsNPZIJ5kn61gw6qeabyyVcql6lRbh0ihp3hT63z7SnYwvZKToZrXk1Dc1OuhMXk+GPTyw3afcFNnAHViQNQI/PdTy1zceI8sy4vI8YyTlNtJ9K/kmvWc7hyTpAA5CqceXzeNwiupsy6COTURzt9K49gWDwTJMAmY1IjdzNDUaqGSt3bw5JotFHSqSUruvkSXUHFxPLX41VCTb4i6+BvV+BXrQPQiKNhGo2Q9HwuEhg/Dj+NeBnktOJwsma4uJZhRu+OgqrllNyfUE3Oc+GgqbQqIwueAFHaFxHN3uE8zoKCj4gUfEhfFcyfDQetOsZYsXqCw2FuXUuOmULbEtrBPZZoBI1MKa2YtJLJGU128fjwLkywxTjGV3Lp8UvuVcPg3uLcdAItrmYsdY7hz0PpTY8MpxlJdIq2XzzQxuMZf8AZ0qG2fsl8QWyMpKiWzGN+gA57/SrtPgyZbUEuA59XDTpbk6fgc9b2bcxV/q7UA5C5zmAFXfJAPeB510NHG4m7LqIabFvyeNceLOo6FdL8awTCItq5lQlWulkKogGjMszEgDSa6OPLPoji+VPJekjeeTkrfNU+X6nX1G2p0xxuKuts62tq0zF7bMCxPZBzw53CFbUCfCrITlJci4vJek00FqZtySppe3px/JwuB2c166bKFSQHOaSEy21Zi0xuhTGnEVbZ28ueOPH5ySfbjvy6oWy8I9zrCkfo7b3WJMQqRMc9QKScVJUw5s0ce3d3aS9rLuwtj3sWWW3l7ADMWJX2myjWD4+ANL5tK6KtVq8emSc758BtjbLfEuUtQSEa4cxIGVYngddRVaTfA2o1ENPDdPpaXvZBtvAXMPeexcy50jNlMjtKG3x3MKtjBJUx9LmhnxLJDo/H20UlYjjRcU+xooWYnnRpJUiUNRGFUIKpZBRUsh6OWJ7/L614Okjg0kNmA37+4ampTZKb6Ate/O8+g3U0cbfRBUCJ753hfM6n03CnWF9x1BeJXuXieZ/PCmjFIujBIQtsd9NXgiboroaFvHslhrCAjMxLmBqpUKFE68Du760RzTjheOPFvn2VVGSWCM86yyfRce27sbB7QyYe9ZyMWu6ZhoABAHzueoq3DlWPFOG12+/77w5dPvzwyblUe377htkY8Ya3eUq2a6sAiIAyXFE8d7zp3U2DVeajJU7f4f5DqcD1OSEk1UX90/ojG2Ttq3hLt4shYvbFtYIGUQSTv8AeFvyB5Vt0U9sDXq9HPVQglKknb9f6r+RV6G7bTB3WusrMSgVchUffRjM8DkjzNa8ctrsPlPRz1eNQi0ub59jX3srbH2otjFPffMWi8qm3GZXuKyBhJ4ZjVmF1BP1DavTvNhWONVcbvo0uaI9hYnqWvG5buN1li7aBVdQ1wQWM8IzetXbl4g1WPzigoNKpJ+5dvoNsm/1VrEo1u7mvWurRlXRYdXYNPA5FGnOjuXiTUQ85kxtSVRdu/ZS+po9GNqnC2sQvVXDcurCMBopyXVGaeE3M2nu0jyJWUa3TLUZMb3Kovle9Pj4UB0Q20uCe5cZC5ZMixAjtBjM81X40I5FY/lHRy1cIwTpJ2/p92Z228S2IxF3EBGAuMWUEHRdygkcgKfcvE06XHHBhjibVpc+3uUjZf3G/lNC4+Jo3w8V8RdQ/ut/KaO5B3x8UOMM/uN/KaHnI+IPOR8UMRl0jXnwocy9gVyNlMTR3K6DYMU1hO/W4XnXQeQ9eNeMhhTOJJKHVAshgwe/cIHmd9WvBXJFNNrge1YKzqNeX96dJx6AnkUuwYbWBH576W5N06/feLXFsVwGNSPIf3pmpNAi43whiWBA0113H60ba4D6LV8ggmTJHoe886ZbhnVcAl2mFjTXcePnUSd8sNQq2NcVhJLDhwP150/K6Ei4vhL5/wAGbjbLltGUDTepJ0197l8a2YeI8l8JwS6P4/wQWw+olOy2Xc2uikn2vzFXcDS2KnT5V9vwK+lwk6rEkaIT7w97lpVkKSETguz+P8ERDzlldQ33G7xp7X7XoKtW2g+hV+zv/HqCLXACSU3sfZO8ySPa3VPRAlBtKn27/wABDrAH1SBJ9ltdJP3udVyasK2Nrr8V+B0tOqiGX7o9k6RlGpzeHxpbTC5Qk3w+/f8AgC5bcKdVgAn2GnQTvzaf4qyLVki4OXf4/wAAAXTIItxEgANqRBA3jfpTeiuljf0lyr+RKvWTMpq0+wYkkL73n5Gle0X+nVU+nj7/AAGudYFYyvZDGMrayJInNy+FBbbDHY5JU+a7/wAFT/pTMWZio3mBJ+dPLOkqRd/yYxSUUyVtmHcGHdu/vrVcZc2xVqV1oybqZWK9xI9DFakzbF2kzsrCzv7Xjw8BXlo30SOXkddOC0zjgvy0+NPtXgZ0n3f1BZx7pJ/h+tTZa6fQKUvH6kYP7JA8PGeO7UelLUYvox/er/0SBRwXWOX1pnyun0EuXd/UTQfu/wBP1opL/H6EVrv9SHIPdPw7ie+g4Fm5+P78Ay0aZP6frTKK7oWm+d31/AHVST2P6frTJrokNv2r+76mZtSx2kK2wRBzTl3ErEa7/rWvA1TNGGfotSlz26+v1FeyoIB6rWQNyfdaG48orSNNtP8Au+vfp2Bu2RGtpgBJMZAYE8Q086ui/WLGT7SV+/8ABG2GGUqLbTqQewSBPfm5inUu9h3u9zl9fwHbtKf9kmNDpb3mCNc3cy+vKo2/H6iuUl/2+v49QsyBiDbI3aZVOup4GNZFVyvxGUZONqX1/BP1KiAbZ56JxM+9yNV7n4ibm+VL6/ghvlW0S32uAKqBvBMmddx9aaLrqyyClHmUuPax0tKB2rPoE7teNNufiByk3xP6/gK7ZlSBa13TCCCQANx7zPnQ3c9QRnUuZce/8CS2AMz2hPGAnw7XjQcm+EyNtuoy+v4ChT/snQEGOr45T73dPrUSruC5L/v9fX6hG0kfqiJ3fq5PcR2t+tTc74ZFKd/3/X8GNix220jXdpp6Voi+Ddj/ALFydLaxkd/lFedikjHPDuLQce//AE/SrE0u5n2v/H6hi4vv/wBP0pfeLsl/j9fyN1w4voZ7hFLXiw7H2iN1o9/5fSm48SbGv+v1/IS9+f5d3fS7ueoGuK2kmnvbt27f6VHJeP0F58PqOQN+b5cuVByT7gV+H1GN5eDb/D6U1c9SKEu8fqZu2rsW8yvu4dk6acCOVacDSdWatNC51KP1/J0w6JWw2FTNczXDN2CmiraJuQMvG6VHKa66wxVLx/fqcZ+U5tZZUqXTr13cd/8AG2cxtGxAwltWuZsQAboOX2XfqlC9necr/ClXm+KOrhbvLNpVB8e1K/H2Abaw1rChVTOGa7fjtKxOHRzbRyCuhZkPkh76saTJpp5dS25U0ox7V6TVtcPsn8/UVMPfU69cVkgkSg4KNez+Y5VVJeounja42X8fX6wrdxMsG7wHFN8DjH5iq5X4EcZp/wBv1/JHisUQQEeRAP3TrrpoKWvEsxYk16UafvAdWYAG5bjxA/CpdDRcYviLImzIIFxSO5SCdfKnTTLFtm+Yv3ktnFEiWu5TI3BeAkHdyA8xQr1Fc8ST9GN/H8kN++5lVYsCIPZX8BTKkWQxwXMlXvf5LWFs3Av6wDQQCBp2RodJ5eVVzkmynJLG5f23/v8AWGbdzf1w4/dE+Aobl4C7sf8Ah8zKxQOdpMmTrETzir4vg2Y62qjYV43VwmrKnG+pIsnWldCukPQAGts0HIVyRMluKRsrciSlFBa5RSCoojLGnpD0gHUxpof761ZBxT9LoLK64Kt7DXGEFhB3iPDdpyPrWqGXAnxH959fsKl55NNS/eP5IsXicXau64i4xAOVszn2iCYPAyqExxUVuxajFmhdNe/2esmPTech0il4UvX6vB/XxK2MxV/Rs7DLAQ5pKZSSMpGojQ8qOnWK1xbXt/fgaPMtqSi1z6uO/Xjm+LKTdbdbVyxAAGYloUbhJ3DlWyWXFGPpIksWWDbhJJX0pfjv3LdrBOBGYcc2mpn5RWOepxN2k/V6vzZXHz9xcpJ1146/j7ldBwp5PudBkmSq9wLHFBuw0AxooKQGWm3DEiAVXKTYGThz3n1quyvbHwBd294+pposKhHwIGqxSHSN22gFcZtmSTbJBzpRRZqFAoIGgCgpoAobram0m0YvNMlQUqCC1LBYcRQsW7BDajupq4I1wV8btHUwIiQJ7+Bj41dh03SyzHg4VmHdvs28yJ3GuxDHGK9FUzWoJdDQwJEEDcPx4es1iz7rTkZ8qd2yzFUclZlX7cOfGfXWt0J3BGuDuKBqWMIihdBIyKax6JrdtTxqqU5IRtosJZWqHkkI5MTWu6op+JEyB1q2Mh0Blp9zCa81zaM1BqKVsRslpBAS1GhkgRRCwwlCxbJFAFK7YrtizUaBQxNFBGJp0gMobUjsczr5EfWtelTtl2G+TNwdrMwB3ca6GabhC0X5JbY2jWtYcLMca588jl1MkpuXUOq+WQqY5NzfnTSrsMq9EvxPsUyuv57qu3cF66Cc8KVBSAii5DjqtK5EJAaSwUEBNC6FfAstHcQErR3ENPOKx0zNTH6yaFA20PQIEKUUIGKAGPNQAU0ADzRolAsaZEGzVYkBkV62GGvl41bCTi+CRbTM/BqBc04A7q15W3i5L8j9A0SKxmcUUGwkeJEr4GpB1IsxumZ1wfIVqT4NUQMtBssQ4WkbCEFoNgbJAk0t0LdElrLSSsSW4A+FOhkDFGwllBVLKmSAUjEYQNAA+apQKDFAAQoMUIUACJopEoA06CNNWJCMG6eyfA/KngvSRI9UZuzR2p5fSt2pfo0aMz9E05rBRmEBSthE4kEUq4djx4Zl3Bu9Pz61rTNcRlFKxwgtJZLDUUrYrZaw6AkGqpPgpnJpCu2IY9x3VIztEjkuJEyU6kOpD9XU3E3BLSsVhUADigAOgAcGgKEDQAFNQAjRIDToLGNOhCO/7LeB+VW4/wC5Bj1RVwZlieXzNX5uIpFmToi5mrNRSKaFBDUVXIYo4hInkauhKzRBkYFFlgYWkbBYYWlsVsntCCDVcnaKpO0y3dSRVMXTKYumVQlXWXbhoqWGyJTTtDsNaUVhUAD0ADioAMUADioARNElDGmQGDViFI7gkEd4IqyNJphXDshwtkiSdN1W5Zp1Q85J9CwKoZWODSsIdIwkGIWfT5U0HRbBldRTsuskUVW2K2SKtK2I2WLIquRVMs1UUlW4mtWxfBdF8Alaaw2VVq5l7JAaQQOlAOKAAgKgAgKUUeiQYiiQYmnQASasQoM0xBRUsg9KQcUAj0gUOw0pe4yKoSrWy6yRRVbYrZIBSiMkWkYrLIqspBYUUwohIqyywoJWlmpkoqtiMNaViMkApRbHoAHqEGJoogxNMgg1YgMaiAVEUU0SDUAhCgEIUjIGKRkK7LrT3wWp8BAUrAyQUrFDSlYjJxVRWI0UQiYU46Z//9k=">
+                         <span class="best-rate">5.0</span>
+
+                         <ul class="movie-beta__info">
+                             <li><span class="best-voted">71 people voted today</span></li>
+                             <li>
+                                <p class="movie__time">169 min</p>
+                                <p>Adventure | Drama | Fantasy </p>
+                                <p>38 comments</p>
+                             </li>
+                             <li class="last-block">
+                                 <a href="movie-page-left.html" class="slide__link">more</a>
+                             </li>
+                         </ul>
+                     </div>
+                     <div class="movie-beta__item second--item">
+                         <img  class="pic" alt='picture' src="http://tr.web.img2.acsta.net/c_215_290/pictures/19/03/08/14/57/3306733.jpg">
+                         <span class="best-rate">5.0</span>
+
+                         <ul class="movie-beta__info">
+                             <li><span class="best-voted">71 people voted today</span></li>
+                             <li>
+                                <p class="movie__time">169 min</p>
+                                <p>Adventure | Drama | Fantasy </p>
+                                <p>38 comments</p>
+                             </li>
+                             <li class="last-block">
+                                 <a href="movie-page-left.html" class="slide__link">more</a>
+                             </li>
+                         </ul>
+                     </div>
+                     <div class="movie-beta__item third--item">
+                         <img class="pic" alt='picture' src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Alita_Battle_Angel_%282019_poster%29.png/220px-Alita_Battle_Angel_%282019_poster%29.png">
+                         <span class="best-rate">5.0</span>
+
+                         <ul class="movie-beta__info">
+                             <li><span class="best-voted">71 people voted today</span></li>
+                             <li>
+                                <p class="movie__time">169 min</p>
+                                <p>Adventure | Drama | Fantasy </p>
+                                <p>38 comments</p>
+                             </li>
+                             <li class="last-block">
+                                 <a href="movie-page-left.html" class="slide__link">more</a>
+                             </li>
+                         </ul>
+                     </div>
+                     <div class="movie-beta__item hidden-xs">
+                         <img class="pic" alt='' src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/674b36f0-7771-4188-b382-ade2d495544a/dcu3a1p-a87eac2f-3d24-4eb8-90a6-2c7831344362.png/v1/fill/w_714,h_1119,q_70,strp/avengers_endgame_poster_by_iamtherealnova_dcu3a1p-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAwNyIsInBhdGgiOiJcL2ZcLzY3NGIzNmYwLTc3NzEtNDE4OC1iMzgyLWFkZTJkNDk1NTQ0YVwvZGN1M2ExcC1hODdlYWMyZi0zZDI0LTRlYjgtOTBhNi0yYzc4MzEzNDQzNjIucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.00Rly469X45SkQtxYdjkmUjZCLnlja5gH8ZqmG4PMHw">
+                         <span class="best-rate">5.0</span>
+
+                         <ul class="movie-beta__info">
+                             <li><span class="best-voted">71 people voted today</span></li>
+                             <li>
+                                <p class="movie__time">169 min</p>
+                                <p>Adventure | Drama | Fantasy </p>
+                                <p>38 comments</p>
+                             </li>
+                             <li class="last-block">
+                                 <a href="movie-page-left.html" class="slide__link">more</a>
+                             </li>
+                         </ul>
+                     </div>
+                     <div class="movie-beta__item hidden-xs hidden-sm">
+                         <img class="pic" alt='' src="https://images-na.ssl-images-amazon.com/images/I/71y%2BE9MaURL._SY606_.jpg">
+                         <span class="best-rate">5.0</span>
+
+                         <ul class="movie-beta__info">
+                             <li><span class="best-voted">71 people voted today</span></li>
+                             <li>
+                                <p class="movie__time">169 min</p>
+                                <p>Adventure | Drama | Fantasy </p>
+                                <p>38 comments</p>
+                             </li>
+                             <li class="last-block">
+                                 <a href="movie-page-left.html" class="slide__link">more</a>
+                             </li>
+                         </ul>
+                     </div>
+                     <div class="movie-beta__item hidden-xs hidden-sm">
+                         <img class="pic" alt='' src="data:image/jpeg;base64,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">
+                         <span class="best-rate">5.0</span>
+
+                         <ul class="movie-beta__info">
+                             <li><span class="best-voted">71 people voted today</span></li>
+                             <li>
+                                <p class="movie__time">169 min</p>
+                                <p>Adventure | Drama | Fantasy </p>
+                                <p>38 comments</p>
+                             </li>
+                             <li class="last-block">
+                                 <a href="movie-page-left.html" class="slide__link">more</a>
+                             </li>
+                         </ul>
+                     </div>
+                 </div>
+                <div class="col-sm-10 col-sm-offset-1 movie-best__check">check all movies now playing</div>
+            </div>
+
+            <div class="col-sm-12">
+                <div class="mega-select-present mega-select-top mega-select--full">
+                    <div class="mega-select-marker">
+                        <div class="marker-indecator location">
+                            <p class="select-marker"><span>İndi kinoya bax</span> <br>Öz şəhərində</p>
+                        </div>
+
+                        <div class="marker-indecator cinema">
+                            <p class="select-marker"><span>Öz sinemavı </span> <br>Axtar</p>
+                        </div>
+
+                        <div class="marker-indecator film-category">
+                            <p class="select-marker"><span>Zövqünüzə görə </span> <br> film tapın</p>
+                        </div>
+
+                        <div class="marker-indecator actors">
+                            <p class="select-marker"><span> Sevdiyiniz aktyorları</span> <br>tapın</p>
+                        </div>
+
+                        <div class="marker-indecator director">
+                            <p class="select-marker"><span>Bəyəndiyiniz rejissorlar </span> <br>hamsı burda</p>
+                        </div>
+
+                        <div class="marker-indecator country">
+                            <p class="select-marker"><span>Ölkələrə görə</span> <br>film axtar</p>
+                        </div>
+                    </div>
+
+                      <div class="mega-select pull-right">
+                          <span class="mega-select__point">Search by</span>
+                          <ul class="mega-select__sort">
+                              <li class="filter-wrap"><a href="#" class="mega-select__filter filter--active" data-filter='location'>Yer</a></li>
+                              <li class="filter-wrap"><a href="#" class="mega-select__filter" data-filter='cinema'>Sinema</a></li>
+                              <li class="filter-wrap"><a href="#" class="mega-select__filter" data-filter='film-category'>Kategoriya</a></li>
+                              <li class="filter-wrap"><a href="#" class="mega-select__filter" data-filter='actors'>Aktyorlar</a></li>
+                              <li class="filter-wrap"><a href="#" class="mega-select__filter" data-filter='director'>Rejissor</a></li>
+                              <li class="filter-wrap"><a href="#" class="mega-select__filter" data-filter='country'>Ölkə</a></li>
+                          </ul>
+
+                          <input name="search-input" type='text' class="select__field">
+                          
+                          <div class="select__btn">
+                            <a href="#" class="btn btn-md btn--danger location">Öz şəhərini<span class="hidden-exrtasm">axtar</span></a>
+                            <a href="#" class="btn btn-md btn--danger cinema">find <span class="hidden-exrtasm">suitable cimema</span></a>
+                            <a href="#" class="btn btn-md btn--danger film-category">find <span class="hidden-exrtasm">best category</span></a>
+                            <a href="#" class="btn btn-md btn--danger actors">find <span class="hidden-exrtasm">talented actors</span></a>
+                            <a href="#" class="btn btn-md btn--danger director">find <span class="hidden-exrtasm">favorite director</span></a>
+                            <a href="#" class="btn btn-md btn--danger country">find <span class="hidden-exrtasm">produced country</span></a>
+                          </div>
+
+                          <div class="select__dropdowns">
+                              <ul class="select__group location">
+                                <li class="select__variant" data-value='London'>London</li>
+                                <li class="select__variant" data-value='New York'>New York</li>
+                                <li class="select__variant" data-value='Paris'>Paris</li>
+                                <li class="select__variant" data-value='Berlin'>Berlin</li>
+                                <li class="select__variant" data-value='Moscow'>Moscow</li>
+                                <li class="select__variant" data-value='Minsk'>Minsk</li>
+                                <li class="select__variant" data-value='Warsawa'>Warsawa</li>
+                              </ul>
+
+                              <ul class="select__group cinema">
+                                <li class="select__variant" data-value='Cineworld'>Cineworld</li>
+                                <li class="select__variant" data-value='Empire'>Empire</li>
+                                <li class="select__variant" data-value='Everyman'>Everyman</li>
+                                <li class="select__variant" data-value='Odeon'>Odeon</li>
+                                <li class="select__variant" data-value='Picturehouse'>Picturehouse</li>
+                              </ul>
+
+                              <ul class="select__group film-category">
+                                <li class="select__variant" data-value="Children's">Children's</li>
+                                <li class="select__variant" data-value='Comedy'>Comedy</li>
+                                <li class="select__variant" data-value='Drama'>Drama</li>
+                                <li class="select__variant" data-value='Fantasy'>Fantasy</li>
+                                <li class="select__variant" data-value='Horror'>Horror</li>
+                                <li class="select__variant" data-value='Thriller'>Thriller</li>
+                              </ul>
+
+                              <ul class="select__group actors">
+                                <li class="select__variant" data-value='Leonardo DiCaprio'>Leonardo DiCaprio</li>
+                                <li class="select__variant" data-value='Johnny Depp'>Johnny Depp</li>
+                                <li class="select__variant" data-value='Jack Nicholson'>Jack Nicholson</li>
+                                <li class="select__variant" data-value='Robert De Niro'>Robert De Niro</li>
+                                <li class="select__variant" data-value='Morgan Freeman'>Morgan Freeman</li>
+                                <li class="select__variant" data-value='Jim Carrey'>Jim Carrey</li>
+                                <li class="select__variant" data-value='Adam Sandler'>Adam Sandler</li>
+                                <li class="select__variant" data-value='Ben Stiller'>Ben Stiller</li>
+                              </ul>
+
+                              <ul class="select__group director">
+                                <li class="select__variant" data-value='Steven Spielberg'>Steven Spielberg</li>
+                                <li class="select__variant" data-value='Martin Scorsese'>Martin Scorsese</li>
+                                <li class="select__variant" data-value='Guy Ritchie'>Guy Ritchie</li>
+                                <li class="select__variant" data-value='Christopher Nolan'>Christopher Nolan</li>
+                                <li class="select__variant" data-value='Tim Burton'>Tim Burton</li>
+                              </ul>
+
+                              <ul class="select__group country">
+                                <li class="select__variant" data-value='USA'>USA</li>
+                                <li class="select__variant" data-value='Germany'>Germany</li>
+                                <li class="select__variant" data-value='Australia'>Australia</li>
+                                <li class="select__variant" data-value='UK'>UK</li>
+                                <li class="select__variant" data-value='Japan'>Japan</li>
+                                <li class="select__variant" data-value='Serbia'>Serbia</li>
+                              </ul>
+                          </div>
+                      </div>
+                  </div>
+            </div>
+            
+            <div class="clearfix"></div>
+
+            <h2 id='target' class="page-heading heading--outcontainer">Now in the cinema</h2>
+
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-sm-8 col-md-9">
+                        <!-- Movie variant with time -->
+                            <div class="movie movie--test movie--test--dark movie--test--left">
+                                <div class="movie__images">
+                                    <a href="movie-page-left.html" class="movie-beta__link">
+                                        <img alt='' src="https://imgc.allpostersimages.com/img/print/u-g-F6D1KJ0.jpg?w=550&h=550&p=0">
+                                    </a>
+                                </div>
+
+                                <div class="movie__info">
+                                    <a href='movie-page-left.html' class="movie__title">Gravity (2013)  </a>
+
+                                    <p class="movie__time">91 min</p>
+
+                                    <p class="movie__option"><a href="#">Sci-Fi</a> | <a href="#">Thriller</a> | <a href="#">Drama</a></p>
+                                    
+                                    <div class="movie__rate">
+                                        <div class="score"></div>
+                                        <span class="movie__rating">4.1</span>
+                                    </div>               
+                                </div>
+                            </div>
+                         <!-- Movie variant with time -->
+
+                         <!-- Movie variant with time -->
+                            <div class="movie movie--test movie--test--light movie--test--left">
+                                <div class="movie__images">
+                                    <a href="movie-page-left.html" class="movie-beta__link">
+                                    <img alt='' src="images\movie\movie-time1.jpeg">
+                                    </a>
+                                </div>
+
+                                <div class="movie__info">
+                                    <a href='movie-page-left.html' class="movie__title">The Hobbit: The Desolation of Smaug (2013)  </a>
+
+                                    <p class="movie__time">169 min</p>
+
+                                    <p class="movie__option"><a href="#">Adventure</a> | <a href="#">Fantasy</a> | <a href="#">Drama</a></p>
+                                    
+                                    <div class="movie__rate">
+                                        <div class="score"></div>
+                                        <span class="movie__rating">5.0</span>
+                                    </div>               
+                                </div>
+                            </div>
+                         <!-- Movie variant with time -->
+
+                         <!-- Movie variant with time -->
+                            <div class="movie movie--test movie--test--light movie--test--right">
+                                <div class="movie__images">
+                                    <a href="movie-page-left.html" class="movie-beta__link">
+                                    <img alt='' src="images\movie\movie-time9.jpeg">
+                                    </a>
+                                </div>
+
+                                <div class="movie__info">
+                                    <a href='movie-page-left.html' class="movie__title">The Hunger Games: Catching Fire (2013)   </a>
+
+                                    <p class="movie__time">146 min</p>
+
+                                    <p class="movie__option"><a href="#">Action</a> | <a href="#">Adventure</a> | <a href="#">Sci-Fi</a></p>
+                                    
+                                    <div class="movie__rate">
+                                        <div class="score"></div>
+                                        <span class="movie__rating">4.9</span>
+                                    </div>               
+                                </div>
+                            </div>
+                         <!-- Movie variant with time -->
+
+                         <!-- Movie variant with time -->
+                            <div class="movie movie--test movie--test--dark movie--test--right">
+                                <div class="movie__images">
+                                    <a href="movie-page-left.html" class="movie-beta__link">
+                                    <img alt='' src="images\movie\movie-time10.jpeg">
+                                    </a>
+                                </div>
+
+                                <div class="movie__info">
+                                    <a href='movie-page-left.html' class="movie__title">Thor: The Dark World (2013) </a>
+
+                                    <p class="movie__time">112 min</p>
+
+                                    <p class="movie__option"><a href="#">Action</a> | <a href="#">Adventure</a> | <a href="#">Fantasy</a></p>
+                                    
+                                    <div class="movie__rate">
+                                        <div class="score"></div>
+                                        <span class="movie__rating">5.0</span>
+                                    </div>               
+                                </div>
+                            </div>
+                         <!-- Movie variant with time -->
+
+                         <!-- Movie variant with time -->
+                            <div class="movie movie--test movie--test--dark movie--test--left">
+                                <div class="movie__images">
+                                    <a href="movie-page-left.html" class="movie-beta__link">
+                                    <img alt='' src="images\movie\movie-time11.jpeg">
+                                    </a>
+                                </div>
+
+                                <div class="movie__info">
+                                    <a href='movie-page-left.html' class="movie__title">World War Z (2013)  </a>
+
+                                    <p class="movie__time">116 min</p>
+
+                                    <p class="movie__option"><a href="#">Action</a> | <a href="#">Adventure</a> | <a href="#">Horror</a></p>
+                                    
+                                    <div class="movie__rate">
+                                        <div class="score"></div>
+                                        <span class="movie__rating">4.1</span>
+                                    </div>               
+                                </div>
+                            </div>
+                         <!-- Movie variant with time -->
+
+                         <!-- Movie variant with time -->
+                            <div class="movie movie--test movie--test--light movie--test--left">
+                                <div class="movie__images">
+                                    <a href="movie-page-left.html" class="movie-beta__link">
+                                    <img alt='' src="images\movie\movie-time12.jpeg">
+                                    </a>
+                                </div>
+
+                                <div class="movie__info">
+                                    <a href='movie-page-left.html' class="movie__title">Prisoners (2013) </a>
+
+                                    <p class="movie__time">153 min</p>
+
+                                    <p class="movie__option"><a href="#">Crime</a> | <a href="#">Thriller</a> | <a href="#">Drama</a></p>
+                                    
+                                    <div class="movie__rate">
+                                        <div class="score"></div>
+                                        <span class="movie__rating">5.0</span>
+                                    </div>               
+                                </div>
+                            </div>
+                         <!-- Movie variant with time -->
+
+                         <!-- Movie variant with time -->
+                            <div class="movie movie--test movie--test--light movie--test--right">
+                                <div class="movie__images">
+                                    <a href="movie-page-left.html" class="movie-beta__link">
+                                    <img alt='' src="images\movie\movie-time13.jpeg">
+                                    </a>
+                                </div>
+
+                                <div class="movie__info">
+                                    <a href='movie-page-left.html' class="movie__title">This Is the End (2013)   </a>
+
+                                    <p class="movie__time">107 min</p>
+
+                                    <p class="movie__option"><a href="#">Comedy</a> | <a href="#">Fantasy</a></p>
+                                    
+                                    <div class="movie__rate">
+                                        <div class="score"></div>
+                                        <span class="movie__rating">4.9</span>
+                                    </div>               
+                                </div>
+                            </div>
+                         <!-- Movie variant with time -->
+
+                         <!-- Movie variant with time -->
+                            <div class="movie movie--test movie--test--dark movie--test--right">
+                                <div class="movie__images">
+                                    <a href="movie-page-left.html" class="movie-beta__link">
+                                    <img alt='' src="images\movie\movie-time14.jpeg">
+                                    </a>
+                                </div>
+
+                                <div class="movie__info">
+                                    <a href='movie-page-left.html' class="movie__title">The Internship (2013)  </a>
+
+                                    <p class="movie__time">112 min</p>
+
+                                    <p class="movie__option"><a href="#">Comedy</a></p>
+                                    
+                                    <div class="movie__rate">
+                                        <div class="score"></div>
+                                        <span class="movie__rating">5.0</span>
+                                    </div>               
+                                </div>
+                            </div>
+                         <!-- Movie variant with time -->
+
+
+                        <div class="row">
+                            <div class="social-group">
+                              <div class="col-sm-6 col-md-4 col-sm-push-6 col-md-push-4">
+                                    <div class="social-group__head">Join <br>our social groups</div>
+                                    <div class="social-group__content">A lot of fun, discussions, queezes and contests among members. <br class="hidden-xs"><br>Always be first to know about best offers from cinemas and our partners</div>
+                                </div>
+
+                                <div class="col-sm-6 col-md-4 col-sm-pull-6 col-md-pull-4">
+                                     <div class="facebook-group">
+
+                                        <iframe class="fgroup" src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fthemeforest&amp;width=240&amp;height=330&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:240px; height:330px;" allowtransparency="true"></iframe>
+                                    </div>
+                                </div>
+                                
+                                <div class="clearfix visible-sm"></div>
+                                <div class="col-sm-6 col-md-4">
+                                    <div class="twitter-group">
+                                        <div id="twitter-feed"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <aside class="col-sm-4 col-md-3">
+                        <div class="sitebar first-banner--left">
+                           
+
+                            
+
+                            
+
+                            <div class="promo marginb-sm">
+                              <div class="promo__head">A.Movie app</div>
+                              <div class="promo__describe">for all smartphones<br> and tablets</div>
+                              <div class="promo__content">
+                                  <ul>
+                                      <li class="store-variant"><a href="#"><img alt='' src="images\apple-store.svg"></a></li>
+                                      <li class="store-variant"><a href="#"><img alt='' src="images\google-play.svg"></a></li>
+                                      <li class="store-variant"><a href="#"><img alt='' src="images\windows-store.svg"></a></li>
+                                  </ul>
+                              </div>
+                          </div>
+    
+                        </div>
+                    </aside>
+                </div>
+            </div>
+
+            <div class="col-sm-12">
+                <h2 class="page-heading">Latest news</h2>
+
+                <div class="col-sm-4 similar-wrap col--remove">
+                    <div class="post post--preview post--preview--wide">
+                        <div class="post__image">
+                            <img alt='' src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Dark_Phoenix_%28film%29.png/220px-Dark_Phoenix_%28film%29.png">
+                            <div class="social social--position social--hide">
+                                <span class="social__name">Share:</span>
+                                <a href='#' class="social__variant social--first fa fa-facebook"></a>
+                                <a href='#' class="social__variant social--second fa fa-twitter"></a>
+                                <a href='#' class="social__variant social--third fa fa-vk"></a>
+                            </div>
+                        </div>
+                        <p class="post__date">22 October 2013 </p>
+                        <a href="single-page-left.html" class="post__title">Dark Phoenix</a>
+                        <a href="single-page-left.html" class="btn read-more post--btn">read more</a>
+                    </div>
+                </div>
+                <div class="col-sm-4 similar-wrap col--remove">
+                    <div class="post post--preview post--preview--wide">
+                        <div class="post__image">
+                            <img alt='' src="https://i.kinja-img.com/gawker-media/image/upload/s--CG5IArZR--/c_scale,f_auto,fl_progressive,q_80,w_800/ckp4dmtavdq7fizotrx8.png">
+                            <div class="social social--position social--hide">
+                                <span class="social__name">Share:</span>
+                                <a href='#' class="social__variant social--first fa fa-facebook"></a>
+                                <a href='#' class="social__variant social--second fa fa-twitter"></a>
+                                <a href='#' class="social__variant social--third fa fa-vk"></a>
+                            </div>
+                        </div>
+                        <p class="post__date">22 October 2013 </p>
+                        <a href="single-page-left.html" class="post__title">30th Annual Night Of Stars Presented By The Fashion Group International</a>
+                        <a href="single-page-left.html" class="btn read-more post--btn">read more</a>
+                    </div>
+                </div>
+                <div class="col-sm-4 similar-wrap col--remove">
+                    <div class="post post--preview post--preview--wide">
+                        <div class="post__image">
+                            <img alt='' src="https://static1.srcdn.com/wordpress/wp-content/uploads/2019/04/Star-Wars-9-Rise-of-Skywalker-Title-and-Stars.jpg">
+                            <div class="social social--position social--hide">
+                                <span class="social__name">Share:</span>
+                                <a href='#' class="social__variant social--first fa fa-facebook"></a>
+                                <a href='#' class="social__variant social--second fa fa-twitter"></a>
+                                <a href='#' class="social__variant social--third fa fa-vk"></a>
+                            </div>
+                        </div>
+                        <p class="post__date">22 October 2013 </p>
+                        <a href="single-page-left.html" class="post__title">Hollywood Film Awards 2013</a>
+                        <a href="single-page-left.html" class="btn read-more post--btn">read more</a>
+                    </div>
+                </div>
+            </div>
+                
+        </section>
+        
+        <div class="clearfix"></div>
+
+        <footer class="footer-wrapper">
+                <section class="container">
+                    <div class="col-xs-4 col-md-2 footer-nav">
+                        <ul class="nav-link">
+                            <li><a href="./movie-page-left.html" class="nav-link__item">Filmlər</a></li>
+                            <li><a href="rates-left.html" class="nav-link__item">Bu ayın filmləri</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-xs-4 col-md-2 footer-nav">
+                        <ul class="nav-link">
+                            <li><a href="coming-soon.html" class="nav-link__item">Tezliklə</a></li>
+                            <li><a href="news-left.html" class="nav-link__item">Xəbərlər</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-xs-4 col-md-2 footer-nav">
+                        <ul class="nav-link">
+                            <li><a href="gallery-four.html" class="nav-link__item">Haqqımızda</a></li>
+                            <li><a href="contact.html" class="nav-link__item">Bizimlə Əlaqə</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-xs-12 col-md-6">
+                        <div class="footer-info">
+                            <p class="heading-special--small">Filmdən Öncə<br><span class="title-edition">in the social media</span></p>
+    
+                            <div class="social">
+                                <a href='https://www.facebook.com/Filmden-%C3%96nce-1932930300282307/' class="social__variant fa fa-facebook"></a>
+                                <a href='https://twitter.com/FilmdenO' class="social__variant fa fa-twitter"></a>
+                                <a href='https://www.instagram.com/filmdenonce/' class="social__variant fa fa-instagram"></a>
+                            </div>
+                            
+                            <div class="clearfix"></div>
+                            <p class="copy">&copy;Filmdən Öncə</p>
+                        </div>
+                    </div>
+                </section>
+            </footer>
+    </div>
+
+    <!-- open/close -->
+        <div class="overlay overlay-hugeinc">
+            
+            <section class="container">
+
+                <div class="col-sm-4 col-sm-offset-4">
+                    <button type="button" class="overlay-close">Close</button>
+                    <form id="login-form" class="login" method='get' novalidate=''>
+                        <p class="login__title">sign in <br><span class="login-edition">welcome to A.Movie</span></p>
+
+                        <div class="social social--colored">
+                                <a href='#' class="social__variant fa fa-facebook"></a>
+                                <a href='#' class="social__variant fa fa-twitter"></a>
+                                <a href='#' class="social__variant fa fa-tumblr"></a>
+                        </div>
+
+                        <p class="login__tracker">or</p>
+                        
+                        <div class="field-wrap">
+                        <input type='email' placeholder='Email' name='user-email' class="login__input">
+                        <input type='password' placeholder='Password' name='user-password' class="login__input">
+
+                        <input type='checkbox' id='#informed' class='login__check styled'>
+                        <label for='#informed' class='login__check-info'>remember me</label>
+                         </div>
+                        
+                        <div class="login__control">
+                            <button type='submit' class="btn btn-md btn--warning btn--wider">sign in</button>
+                            <a href="#" class="login__tracker form__tracker">Forgot password?</a>
+                        </div>
+                    </form>
+                </div>
+
+            </section>
+        </div>
+
+	<!-- JavaScript-->
+        <!-- jQuery 1.9.1--> 
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/external/jquery-1.10.1.min.js"><\/script>')</script>
+        <!-- Migrate --> 
+        <script src="js\external\jquery-migrate-1.2.1.min.js"></script>
+        <!-- Bootstrap 3--> 
+        <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+
+        <!-- jQuery REVOLUTION Slider -->
+        <script type="text/javascript" src="rs-plugin\js\jquery.themepunch.plugins.min.js"></script>
+        <script type="text/javascript" src="rs-plugin\js\jquery.themepunch.revolution.min.js"></script>
+
+        <!-- Mobile menu -->
+        <script src="js\jquery.mobile.menu.js"></script>
+         <!-- Select -->
+        <script src="js\external\jquery.selectbox-0.2.min.js"></script>
+        <!-- Stars rate -->
+        <script src="js\external\jquery.raty.js"></script>
+        
+        <!-- Form element -->
+        <script src="js\external\form-element.js"></script>
+        <!-- Form validation -->
+        <script src="js\form.js"></script>
+
+        <!-- Twitter feed -->
+        <script src="js\external\twitterfeed.js"></script>
+
+        <!-- Custom -->
+        <script src="js\custom.js"></script>
+		
+	      <script type="text/javascript">
+              $(document).ready(function() {
+                init_Home();
+              });
+		    </script>
+
+</body>
+<script src="https://www.gstatic.com/firebasejs/5.9.4/firebase.js"></script>
+<script src="js/back.js"></script>
+</html>

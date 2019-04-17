@@ -1,0 +1,1308 @@
+Uri: http://amovie.gozha.net/
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\index.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/css/gozha-nav.css
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\css\gozha-nav.css
+Content Type: text/css
+
+Uri: http://amovie.gozha.net/css/external/jquery.selectbox.css
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\css\external\jquery.selectbox.css
+Content Type: text/css
+
+Uri: http://amovie.gozha.net/rs-plugin/css/settings.css
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\css\settings.css
+Content Type: text/css
+
+Uri: http://amovie.gozha.net/css/style.css?v=1
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\css\style.css
+Content Type: text/css
+
+Uri: http://amovie.gozha.net/index.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\index-1.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/movie-page-left.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\movie-page-left.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/movie-page-right.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\movie-page-right.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/movie-page-full.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\movie-page-full.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/movie-list-left.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\movie-list-left.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/movie-list-right.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\movie-list-right.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/movie-list-full.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\movie-list-full.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/single-cinema.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\single-cinema.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/cinema-list.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\cinema-list.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/trailer.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\trailer.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/rates-left.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rates-left.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/rates-right.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rates-right.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/rates-full.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rates-full.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/offers.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\offers.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/contact.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\contact.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/404.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\404.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/coming-soon.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\coming-soon.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/login.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\login.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/page-elements.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\page-elements.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/typography.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\typography.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/column.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\column.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/icon-font.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\icon-font.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/book1.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\book1.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/book2.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\book2.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/book3-buy.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\book3-buy.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/book3-reserve.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\book3-reserve.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/book-final.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\book-final.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/gallery-four.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\gallery-four.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/gallery-three.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\gallery-three.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/gallery-two.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\gallery-two.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/news-left.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\news-left.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/news-right.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\news-right.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/news-full.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\news-full.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/single-page-left.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\single-page-left.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/single-page-right.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\single-page-right.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/single-page-full.html
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\single-page-full.html
+Content Type: text/html
+
+Uri: http://amovie.gozha.net/js/external/modernizr.custom.js
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\js\external\modernizr.custom.js
+Content Type: application/javascript
+
+Uri: http://amovie.gozha.net/images/banners/bra.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\banners\bra.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/logo.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\logo.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/client-photo/auth.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\client-photo\auth.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/slides/first-slide.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\slides\first-slide.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/bg-video.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\bg-video.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/video/TravelIs.mp4
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\video\TravelIs.mp4
+Content Type: video/mp4
+
+Uri: http://amovie.gozha.net/video/TravelIs.webm
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\video\TravelIs.webm
+Content Type: video/webm
+
+Uri: http://amovie.gozha.net/video/TravelIs.ogv
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\video\TravelIs.ogv
+Content Type: video/ogg
+
+Uri: http://amovie.gozha.net/images/slides/next-slide.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\slides\next-slide.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-sample1.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-sample1.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-sample2.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-sample2.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-sample3.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-sample3.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-sample4.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-sample4.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-sample5.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-sample5.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-sample6.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-sample6.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-time8.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-time8.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-time1.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-time1.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-time9.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-time9.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-time10.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-time10.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-time11.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-time11.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-time12.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-time12.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-time13.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-time13.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-time14.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-time14.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/banners/sale.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\banners\sale.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/banners/sport.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\banners\sport.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/banners/boots.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\banners\boots.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/apple-store.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\apple-store.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/google-play.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\google-play.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/windows-store.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\windows-store.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/client-photo/post-thor.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\client-photo\post-thor.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/client-photo/post-annual.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\client-photo\post-annual.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/client-photo/post-awards.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\client-photo\post-awards.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/js/external/jquery-migrate-1.2.1.min.js
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\js\external\jquery-migrate-1.2.1.min.js
+Content Type: application/javascript
+
+Uri: http://amovie.gozha.net/rs-plugin/js/jquery.themepunch.plugins.min.js
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\js\jquery.themepunch.plugins.min.js
+Content Type: application/javascript
+
+Uri: http://amovie.gozha.net/rs-plugin/js/jquery.themepunch.revolution.min.js
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: http://amovie.gozha.net/js/jquery.mobile.menu.js
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\js\jquery.mobile.menu.js
+Content Type: application/javascript
+
+Uri: http://amovie.gozha.net/js/external/jquery.selectbox-0.2.min.js
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\js\external\jquery.selectbox-0.2.min.js
+Content Type: application/javascript
+
+Uri: http://amovie.gozha.net/js/external/jquery.raty.js
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\js\external\jquery.raty.js
+Content Type: application/javascript
+
+Uri: http://amovie.gozha.net/js/external/form-element.js
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\js\external\form-element.js
+Content Type: application/javascript
+
+Uri: http://amovie.gozha.net/js/form.js
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\js\form.js
+Content Type: application/javascript
+
+Uri: http://amovie.gozha.net/js/external/twitterfeed.js
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\js\external\twitterfeed.js
+Content Type: application/javascript
+
+Uri: http://amovie.gozha.net/js/custom.js
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\js\custom.js
+Content Type: application/javascript
+
+Uri: http://amovie.gozha.net/images/close-open-menu-icon.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\close-open-menu-icon.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/components/plus-minus-icon.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\components\plus-minus-icon.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/css/img/select-icons.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\css\img\select-icons.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/images/gradient/g30.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\images\gradient\g30.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/images/gradient/g40.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\images\gradient\g40.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/shadow1.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\shadow1.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/shadow2.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\shadow2.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/shadow3.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\shadow3.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/gridtile.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\gridtile.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/gridtile_white.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/gridtile_3x3.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/gridtile_3x3_white.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/boxed_bgtile.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\boxed_bgtile.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/navigdots_bgtile.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\navigdots_bgtile.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/bullet.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\bullet.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/bullets.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\bullets.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/bullets2.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\bullets2.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/bullet_boxed.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\bullet_boxed.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/navigdots.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\navigdots.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/large_left.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\large_left.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/large_right.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\large_right.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/small_left.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\small_left.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/small_right.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\small_right.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/arrow_left.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\arrow_left.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/arrow_right.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\arrow_right.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/small_left_boxed.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\small_left_boxed.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/small_right_boxed.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\small_right_boxed.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/arrowleft.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\arrowleft.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/arrowright.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\arrowright.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/arrow_left2.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\arrow_left2.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/arrow_right2.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\arrow_right2.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/timer.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\timer.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/coloredbg.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\coloredbg.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/rs-plugin/assets/loader.gif
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\assets\loader.gif
+Content Type: image/gif
+
+Uri: http://amovie.gozha.net/rs-plugin/font/revicons.eot?5510888
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\font\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://amovie.gozha.net/rs-plugin/font/revicons.woff?5510888
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\font\revicons.woff
+Content Type: application/font-woff
+
+Uri: http://amovie.gozha.net/rs-plugin/font/revicons.ttf?5510888
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\font\revicons.bin
+Content Type: application/octet-stream
+
+Uri: http://amovie.gozha.net/rs-plugin/font/revicons.svg?5510888
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\rs-plugin\font\revicons.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/fonts/aleo-regular.eot
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\aleo-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://amovie.gozha.net/fonts/aleo-regular.eot?
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\aleo-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://amovie.gozha.net/fonts/aleo-regular.woff
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\aleo-regular.woff
+Content Type: application/font-woff
+
+Uri: http://amovie.gozha.net/fonts/aleo-regular.ttf
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\aleo-regular.bin
+Content Type: application/octet-stream
+
+Uri: http://amovie.gozha.net/fonts/aleo-regular.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\aleo-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/fonts/aleo-bold.eot
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\aleo-bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://amovie.gozha.net/fonts/aleo-bold.eot?
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\aleo-bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://amovie.gozha.net/fonts/aleo-bold.woff
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\aleo-bold.woff
+Content Type: application/font-woff
+
+Uri: http://amovie.gozha.net/fonts/aleo-bold.ttf
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\aleo-bold.bin
+Content Type: application/octet-stream
+
+Uri: http://amovie.gozha.net/fonts/aleo-bold.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\aleo-bold.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/fonts/aleo-italic.eot
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\aleo-italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://amovie.gozha.net/fonts/aleo-italic.eot?
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\aleo-italic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://amovie.gozha.net/fonts/aleo-italic.woff
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\aleo-italic.woff
+Content Type: application/font-woff
+
+Uri: http://amovie.gozha.net/fonts/aleo-italic.ttf
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\aleo-italic.bin
+Content Type: application/octet-stream
+
+Uri: http://amovie.gozha.net/fonts/aleo-italic.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\aleo-italic.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/fonts/aleo-bolditalic.eot
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\aleo-bolditalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://amovie.gozha.net/fonts/aleo-bolditalic.eot?
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\aleo-bolditalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://amovie.gozha.net/fonts/aleo-bolditalic.woff
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\aleo-bolditalic.woff
+Content Type: application/font-woff
+
+Uri: http://amovie.gozha.net/fonts/aleo-bolditalic.ttf
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\aleo-bolditalic.bin
+Content Type: application/octet-stream
+
+Uri: http://amovie.gozha.net/fonts/aleo-bolditalic.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\aleo-bolditalic.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/fonts/MuseoSans_500-webfont.eot
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\MuseoSans_500-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://amovie.gozha.net/fonts/MuseoSans_500-webfont.eot?
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\MuseoSans_500-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://amovie.gozha.net/fonts/MuseoSans_500-webfont.woff
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\MuseoSans_500-webfont.woff
+Content Type: application/font-woff
+
+Uri: http://amovie.gozha.net/fonts/MuseoSans_500-webfont.ttf
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\MuseoSans_500-webfont.bin
+Content Type: application/octet-stream
+
+Uri: http://amovie.gozha.net/fonts/MuseoSans_500-webfont.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\fonts\MuseoSans_500-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/bg-image.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\bg-image.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/components/wave-dark.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\components\wave-dark.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/components/arrow.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\components\arrow.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/components/price-pattern.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\components\price-pattern.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/components/scarf.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\components\scarf.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/components/wave.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\components\wave.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/components/wave-hover.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\components\wave-hover.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/components/line-marker.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\components\line-marker.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/icons/left-arrow.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\left-arrow.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/right-arrow.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\right-arrow.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/components/wave-light-sm.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\components\wave-light-sm.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/components/wave-danger.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\components\wave-danger.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/components/wave-main.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\components\wave-main.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/sm-left-arrow.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\sm-left-arrow.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/sm-left-arrow-hover.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\sm-left-arrow-hover.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/sm-right-arrow.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\sm-right-arrow.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/sm-right-arrow-hover.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\sm-right-arrow-hover.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/components/corner-left.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\components\corner-left.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/components/corner-right.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\components\corner-right.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/icons/left-arrow-dark.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\left-arrow-dark.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/left-arrow-danger.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\left-arrow-danger.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/right-arrow-dark.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\right-arrow-dark.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/right-arrow-danger.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\right-arrow-danger.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/components/bg-movie.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\components\bg-movie.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/components/bg-time.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\components\bg-time.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/components/bg-time-hover.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\components\bg-time-hover.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/rate/star-off.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\rate\star-off.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/components/wave-light.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\components\wave-light.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/components/cursor.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\components\cursor.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/icons/speech.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\speech.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/stroke.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\stroke.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/stars-light.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\stars-light.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/stars.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\stars.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/mause.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\mause.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/location.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\location.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/camera.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\camera.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/fiml.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\fiml.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/actors.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\actors.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/director.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\director.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/country.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\country.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/reply.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\reply.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/reply-hover.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\reply-hover.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/retweet.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\retweet.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/retweet-hover.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\retweet-hover.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/fave.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\fave.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/fave-hover.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\fave-hover.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/components/checked.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\components\checked.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/icons/heart.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\heart.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/comment.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\comment.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/film.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\film.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/snow-dark.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\snow-dark.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/users-dark.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\users-dark.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/wizard-dark.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\wizard-dark.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/smile-dark.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\smile-dark.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/gift-dark.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\gift-dark.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/snow-light.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\snow-light.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/users-light.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\users-light.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/wizard-light.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\wizard-light.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/smile-light.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\smile-light.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/images/icons/gift-light.svg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\icons\gift-light.svg
+Content Type: image/svg+xml
+
+Uri: http://amovie.gozha.net/css/external/idangerous.swiper.css
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\css\external\idangerous.swiper.css
+Content Type: text/css
+
+Uri: http://amovie.gozha.net/css/external/magnific-popup.css
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\css\external\magnific-popup.css
+Content Type: text/css
+
+Uri: http://amovie.gozha.net/images/movie/movie-img1-lg.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-img1-lg.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-img2-lg.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-img2-lg.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/large/item-7.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\large\item-7.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/large/item-11.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\large\item-11.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/large/item-15.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\large\item-15.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/large/item-16.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\large\item-16.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/single-movie.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\single-movie.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-video1.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-video1.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-video2.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-video2.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-img1.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-img1.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-img2.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-img2.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-img3.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-img3.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-img4.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-img4.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-img5.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-img5.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-img6.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-img6.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/comment/avatar.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\comment\avatar.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/comment/avatar-olia.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\comment\avatar-olia.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/comment/avatar-dmitriy.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\comment\avatar-dmitriy.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/comment/avatar-sia.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\comment\avatar-sia.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/js/external/idangerous.swiper.min.js
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\js\external\idangerous.swiper.min.js
+Content Type: application/javascript
+
+Uri: http://amovie.gozha.net/js/external/jquery.magnific-popup.min.js
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\js\external\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: http://amovie.gozha.net/js/external/infobox.js
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\js\external\infobox.js
+Content Type: application/javascript
+
+Uri: http://amovie.gozha.net/images/movie/movie-sample7.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-sample7.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-sample8.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-sample8.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-sample9.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-sample9.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-sample10.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-sample10.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/cinema/cinema-inner1.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\cinema\cinema-inner1.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/cinema/cinema-inner2.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\cinema\cinema-inner2.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/cinema/cinema-inner3.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\cinema\cinema-inner3.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/cinema/cinema-inner4.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\cinema\cinema-inner4.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/cinema/cinema-inner5.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\cinema\cinema-inner5.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/cinema/cinema-inner6.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\cinema\cinema-inner6.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/cinema/cinema-inner7.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\cinema\cinema-inner7.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/cinema/cinema-inner8.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\cinema\cinema-inner8.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/cinema/cinema-inner9.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\cinema\cinema-inner9.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-time2.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-time2.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-time3.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-time3.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-time4.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-time4.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-time5.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-time5.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-time6.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-time6.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/movie/movie-time7.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\movie\movie-time7.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/cinema/cinema1.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\cinema\cinema1.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/cinema/cinema2.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\cinema\cinema2.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/cinema/cinema3.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\cinema\cinema3.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/cinema/cinema4.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\cinema\cinema4.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/banners/film.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\banners\film.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/cinema/cinema5.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\cinema\cinema5.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/cinema/cinema6.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\cinema\cinema6.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/cinema/cinema7.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\cinema\cinema7.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/cinema/cinema8.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\cinema\cinema8.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/cinema/cinema9.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\cinema\cinema9.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/cinema/cinema10.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\cinema\cinema10.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/cinema/cinema11.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\cinema\cinema11.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/cinema/cinema12.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\cinema\cinema12.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/trailers/trailer-1.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\trailers\trailer-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/trailers/trailer-2.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\trailers\trailer-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/trailers/trailer-3.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\trailers\trailer-3.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/trailers/trailer-4.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\trailers\trailer-4.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/trailers/trailer-5.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\trailers\trailer-5.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/trailers/trailer-6.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\trailers\trailer-6.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/trailers/trailer-7.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\trailers\trailer-7.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/trailers/trailer-8.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\trailers\trailer-8.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/trailers/trailer-9.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\trailers\trailer-9.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/trailers/trailer-10.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\trailers\trailer-10.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/trailers/trailer-11.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\trailers\trailer-11.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/trailers/trailer-12.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\trailers\trailer-12.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/trailers/trailer-13.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\trailers\trailer-13.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/trailers/trailer-14.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\trailers\trailer-14.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/logo-dark.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\logo-dark.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/error.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\error.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/logo-lg.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\logo-lg.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/js/external/jquery.knob.js
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\js\external\jquery.knob.js
+Content Type: application/javascript
+
+Uri: http://amovie.gozha.net/js/external/count.down.js
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\js\external\count.down.js
+Content Type: application/javascript
+
+Uri: http://amovie.gozha.net/images/tickets.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\tickets.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/client-photo/thumb1.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\client-photo\thumb1.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/client-photo/client1.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\client-photo\client1.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/js/external/jquery.inview.js
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\js\external\jquery.inview.js
+Content Type: application/javascript
+
+Uri: http://amovie.gozha.net/images/components/sits_mobile.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\components\sits_mobile.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/payment/pay1.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\payment\pay1.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/payment/pay2.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\payment\pay2.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/payment/pay3.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\payment\pay3.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/payment/pay4.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\payment\pay4.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/payment/pay5.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\payment\pay5.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/payment/pay6.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\payment\pay6.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/payment/pay7.png
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\payment\pay7.png
+Content Type: image/png
+
+Uri: http://amovie.gozha.net/images/gallery/large/item-1.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\large\item-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/large/item-2.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\large\item-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/large/item-3.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\large\item-3.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/large/item-5.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\large\item-5.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/large/item-6.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\large\item-6.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/large/item-8.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\large\item-8.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/large/item-9.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\large\item-9.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/large/item-12.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\large\item-12.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/large/item-13.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\large\item-13.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/thumb/item-1.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\thumb\item-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/thumb/item-2.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\thumb\item-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/thumb/item-3.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\thumb\item-3.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/thumb/item-4.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\thumb\item-4.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/thumb/item-5.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\thumb\item-5.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/thumb/item-6.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\thumb\item-6.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/thumb/item-7.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\thumb\item-7.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/thumb/item-8.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\thumb\item-8.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/thumb/item-9.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\thumb\item-9.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/thumb/item-10.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\thumb\item-10.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/thumb/item-11.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\thumb\item-11.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/thumb/item-12.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\thumb\item-12.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/thumb/item-13.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\thumb\item-13.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/thumb/item-14.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\thumb\item-14.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/thumb/item-15.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\thumb\item-15.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/gallery/thumb/item-16.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\gallery\thumb\item-16.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/client-photo/single-post.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\client-photo\single-post.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/new/news-1.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\new\news-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/new/news-2.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\new\news-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/new/news-3.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\new\news-3.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/new/news-4.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\new\news-4.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/new/news-5.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\new\news-5.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/client-photo/post-img1.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\client-photo\post-img1.jpeg
+Content Type: image/jpeg
+
+Uri: http://amovie.gozha.net/images/client-photo/post-img2.jpg
+File Name: D:\Downloaded Web Sites\amovie.gozha.net\images\client-photo\post-img2.jpeg
+Content Type: image/jpeg
+
